@@ -1,0 +1,10 @@
+
+.container{margin-top: 20px;}
+.cardImg{height: 180px; width: 100%; display: flex; justify-content: center; overflow: hidden;}
+.cardImg img{height: 100% !important; width: auto !important;}
+.card-body{height: 280px; display: flex; flex-direction: column; justify-content: space-between;}
+.col-lg-3{margin-bottom: 20px;}
+.modal-dialog{max-width: 90% !important; width: 90%;}
+.d-block {
+  height: 420px;
+}
